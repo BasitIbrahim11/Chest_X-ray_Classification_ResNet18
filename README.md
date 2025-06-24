@@ -59,9 +59,9 @@ You can run this notebook using Google Colab or Jupyter Notebook:
 ## 👤 Author
 
 - **Name:** Basit Ibrahim  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **GitHub:** [github.com/BasitIbrahim11](https://github.com/BasitIbrahim11)  
 - **Education:** MS in Artificial Intelligence  
-- **Focus:** Medical Imaging | Deep Learning | Model Explainability
+- **Focus:** Medical Imaging | Deep Learning | Classification
 
 ---
 
