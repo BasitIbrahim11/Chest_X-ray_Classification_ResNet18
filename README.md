@@ -51,7 +51,7 @@ Chest X-rays are among the most commonly used diagnostic tools in clinical pract
 
 You can run this notebook using Google Colab or Jupyter Notebook:
 
-👉 [Open in Colab](https://colab.research.google.com/drive/11DZ-86NiSloABphYnvWdMVRUuc6uCyml)  
+👉 [Open in Colab](https://www.kaggle.com/code/basitibrahim/iu-dataset/edit)  
 → Upload the notebook: `iu-dataset.ipynb`
 
 ---
